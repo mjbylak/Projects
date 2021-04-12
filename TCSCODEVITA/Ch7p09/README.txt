@@ -1,0 +1,1 @@
+Finds the minimum of 10 numbers 
